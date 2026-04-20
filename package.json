@@ -2,6 +2,12 @@
   "name": "rapidcare",
   "version": "1.0.0",
   "description": "RapidCare – Emergency Hospital Access System",
+  "contributors": [
+    {
+      "name": "Aditya2005-ai",
+      "url": "https://github.com/Aditya2005-ai"
+    }
+  ],
   "private": true,
   "scripts": {
     "dev": "vite",

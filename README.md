@@ -99,7 +99,11 @@ The app includes 6 simulated hospitals with realistic data:
 | Background | `#F5F7FA` | App background |
 | Text | `#263238` | Body text |
 
-## 📞 Emergency Contacts (India)
+## � Contributors
+
+- **Aditya2005-ai** — Project owner and RapidCare author
+
+## �📞 Emergency Contacts (India)
 
 - **112** — National Emergency Number
 - **108** — Ambulance
